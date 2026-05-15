@@ -1,0 +1,38 @@
+body {
+  background: #beb49e;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+.myImage {
+    background-image: url("dessert-table-5_orig.jpg");
+  }
+.myImage {
+  background-image: url("recipebook.jpg");
+}
+.image-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items:center;
+
+}
+body {
+  background-color: #beb49e;
+}
+
+.side-image {
+  background-image: url("applepie.jpeg");
+  float: right;
+  margin-right: 80px; 
+  width: 180px; 
+}
+
+body {
+  background-color: #beb49e;
+}
